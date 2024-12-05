@@ -8,8 +8,8 @@ hope you enjoy it
 the following table of contents will be updated as I continue this course.
 
 ## Introduction
-this section has no instructions and is only comprised of exercises
+this section has no instructions and is only comprised of exercises\n
 I solved the exercises in a `.ipynb` note book
 [Exercises](/Chapter01-Intro/Exercises.ipynb)
-furthermore, each exercises code is seperately provided in `.py` format.
+furthermore, each exercises code is seperately provided in `.py` format. \n
 [Seperate_answers](/Chapter01-Intro/py%20files)
