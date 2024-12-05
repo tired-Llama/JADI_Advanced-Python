@@ -10,6 +10,6 @@ the following table of contents will be updated as I continue this course.
 ## Introduction
 this section has no instructions and is only comprised of exercises
 I solved the exercises in a `.ipynb` note book
-[Exercises](/Chapter01-Intro/py files/Exercise01.py)
+[Exercises](/Chapter01-Intro/Exercises.ipynb)
 furthermore, each exercises code is seperately provided in `.py` format.
-[Seperate_answers](/Chapter01-Intro/py files)
+[Seperate_answers](/Chapter01-Intro/py%20files)
