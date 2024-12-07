@@ -3,7 +3,6 @@ entery = []
 for i in range(n):
     entery.append(input().split())
 
-print(entery)
 #NOTE - move all casted votes into a single list
 votes = []
 for i in entery:
